@@ -1,0 +1,11 @@
+@import "tailwindcss";
+/* Add to your global CSS */
+.prose .heading-node {
+    font-weight: bold;
+  }
+  .prose .heading-node[level="1"] {
+    font-size: 2.25em;
+  }
+  .prose .heading-node[level="2"] {
+    font-size: 1.875em;
+  }
